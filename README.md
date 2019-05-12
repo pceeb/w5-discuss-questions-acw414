@@ -27,3 +27,13 @@ I will need to use grep to exctract particular collumns from our data tables and
 6. What is your biggest concern regarding your project? (a few sentences max).
 
 My biggest concern is I am not too familiar with clustering, but my partner Joshi says he has some experience in creating clusters. I am also unsure of how to work with R, but I know that we will be doing more with it in the next few weeks in lecture.
+
+## Grade Discussion 5 (week5): 20/20 Nice work!!! :thumbsup:
+
+| **Rubric** | **5pt** | **4pt** | **3pt** | **2pt** | **1pt** |
+| --- | ---| --- | --- | --- | --- |
+| In-Lab work | **X** | | | |
+| Questions | **X** | | | |
+| Project README.md | **X** | | | |
+| Challenges - Timely Submission | **X** | | | |
+
